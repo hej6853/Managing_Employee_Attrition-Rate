@@ -32,10 +32,6 @@ The dataset I received was a time-series format. Time series analysis suffers fr
 - Identified talentied partners who work more than 1.09 years with Starbucks and stay with the one position for more than 0.83 years.
 - Developed a supervised machine learning model with 98% of accuracy in predicting when the employees are about to leave or stay and derived a cost analysis outcome that can save $1,220 for each employee.
 
-![image](https://user-images.githubusercontent.com/79428102/124825081-07f33f80-df28-11eb-903b-88da5cf2a25d.png)
-
-![image](https://user-images.githubusercontent.com/79428102/124825044-fe69d780-df27-11eb-8318-dcbcb4080c67.png)
-
 # License
 ** the original dataset is not included due to NDA.
 © hej6853
