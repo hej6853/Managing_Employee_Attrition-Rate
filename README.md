@@ -3,6 +3,7 @@
 With nearly 350,000 employees across 30,000 retail locations, Starbucks is one of the largest multinational chains of coffeehouses in the world. One of the key resources is their employees at Starbucks. Starbucks calls their employees partners because employees are all partners in shared success. Part of the Starbucks experience is walking into a store and being greeted by great employees that know your name and your favorite drink. In other words, the longer a partner works at Starbucks, the more relationships they build and experiences they contribute to which translates into better customer experiences, increased competitive advantage, and greater customer lifetime value.
 
 ![image](https://user-images.githubusercontent.com/79428102/124819973-c3fd3c00-df21-11eb-92d7-eb48f9ee1562.png)
+
 ![image](https://user-images.githubusercontent.com/79428102/124820067-e0997400-df21-11eb-89f9-f600bf4d7306.png)
 
 
@@ -15,6 +16,7 @@ Starbucks has a relatively high turnover rate of 65 percent for full-time partne
 
 # Data Preprocessing
 The dataset I received was a time-series format. Time series analysis suffers from a number of weaknesses, including problems with generalization from a single study, difficulty in obtaining appropriate measures, and problems with accurately identifying the correct model to represent the data. Therefore, I transformed this dataset to independent of the observations format data frame.
+
 ![image](https://user-images.githubusercontent.com/79428102/124820960-f8bdc300-df22-11eb-958a-f62aa154bac3.png)
 
 # Build with
