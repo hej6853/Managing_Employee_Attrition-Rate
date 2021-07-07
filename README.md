@@ -15,7 +15,7 @@ Our question to  resolve throught this project is "how can Starbucks predict whe
 Starbucks has a relatively high turnover rate of 65 percent for full-time partners. It costs as much as 33% of a worker's annual salary to replace. If we assume this statistic holds true for Starbucks, employee turnover could be costing them approcimately $2 billion per year and reduce this by just 0.1%, it could mean saving of $ 2 million per year.
 
 # Data Preprocessing
-The dataset I received was a time-series format. Time series analysis suffers from a number of weaknesses, including problems with generalization from a single study, difficulty in obtaining appropriate measures, and problems with accurately identifying the correct model to represent the data. Therefore, I transformed this dataset to independent of the observations format data frame.
+The dataset I received was a time-series format. Time series analysis suffers from a number of weaknesses, including problems with generalization from a single study, difficulty in obtaining appropriate measures, and problems with accurately identifying the correct model to represent the data. Therefore, I transformed this dataset to independent of the observations format data frame. Therefore, I created an independent observations data frame with Python--Pandas that is transformable from time-series data including over 100M + rows through ETL process and extracted the 6,100 talented employees’ data.
 
 ![image](https://user-images.githubusercontent.com/79428102/124820960-f8bdc300-df22-11eb-958a-f62aa154bac3.png)
 
@@ -27,6 +27,14 @@ The dataset I received was a time-series format. Time series analysis suffers fr
 - Machine Learning - Logistic Regression 
 - Data Extract, Transform, Load
 - Matplotlib data exploration and visualization
+
+# Conclusion
+- Identified talentied partners who work more than 1.09 years with Starbucks and stay with the one position for more than 0.83 years.
+- Developed a supervised machine learning model with 98% of accuracy in predicting when the employees are about to leave or stay and derived a cost analysis outcome that can save $1,220 for each employee.
+
+![image](https://user-images.githubusercontent.com/79428102/124825081-07f33f80-df28-11eb-903b-88da5cf2a25d.png)
+
+![image](https://user-images.githubusercontent.com/79428102/124825044-fe69d780-df27-11eb-8318-dcbcb4080c67.png)
 
 # License
 ** the original dataset is not included due to NDA.
