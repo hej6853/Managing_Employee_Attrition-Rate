@@ -14,8 +14,14 @@ Our question to  resolve throught this project is "how can Starbucks predict whe
 Starbucks has a relatively high turnover rate of 65 percent for full-time partners. It costs as much as 33% of a worker's annual salary to replace. If we assume this statistic holds true for Starbucks, employee turnover could be costing them approcimately $2 billion per year and reduce this by just 0.1%, it could mean saving of $ 2 million per year.
 
 # Build with
-- Python Pandas (Data Extract, Transform, Load)
+- Python Pandas 
 - Matplotlib (data exploration and visualization)
+
+
+# Key Skills Learned
+- Machine Learning - Logistic Regression 
+- Data Extract, Transform, Load
+- Matplotlib data exploration and visualization
 
 # License
 © hej6853
