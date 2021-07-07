@@ -17,12 +17,9 @@ Starbucks has a relatively high turnover rate of 65 percent for full-time partne
 The dataset I received was a time-series format. Time series analysis suffers from a number of weaknesses, including problems with generalization from a single study, difficulty in obtaining appropriate measures, and problems with accurately identifying the correct model to represent the data. Therefore, I transformed this dataset to independent of the observations format data frame.
 ![image](https://user-images.githubusercontent.com/79428102/124820960-f8bdc300-df22-11eb-958a-f62aa154bac3.png)
 
-![image](https://user-images.githubusercontent.com/79428102/124820768-bf855300-df22-11eb-84d5-21633db8a64c.png)
-
 # Build with
 - Python Pandas 
 - Matplotlib (data exploration and visualization)
-
 
 # Key Skills Learned
 - Machine Learning - Logistic Regression 
